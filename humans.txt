@@ -1,0 +1,21 @@
+/* FOUNDER */
+	Founder:Alex Bortolotti
+	Contact: bonjour [at] alexborto.com
+	Twitter: @alex_borto
+	From:Troyes, Aube, France
+
+
+/* THANKS */
+
+	Host: O2Switch (Alexandre Yepes)
+	Twitter: @O2Switch
+	Contact: support [at] o2switch.fr
+	From: Clermont-Ferrand, Auvergne, France
+
+
+/* SITE */
+	Language: French
+	Doctype: HTML5
+	Standards: HTML5, CSS3
+	Components: jQuery, PHP
+	Software: WordPress
